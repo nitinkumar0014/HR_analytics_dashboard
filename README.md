@@ -31,7 +31,7 @@ This Power BI dashboard helps HR teams understand:
 * Gender-wise Attrition
 
 📷 Dashboard Preview
-
+https://github.com/nitinkumar0014/HR_analytics_dashboard/blob/main/Snapshot%20of%20dashboard.png
 
 ## 🛠 Tools & Technologies
 
