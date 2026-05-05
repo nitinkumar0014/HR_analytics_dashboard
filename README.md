@@ -30,6 +30,8 @@ This Power BI dashboard helps HR teams understand:
 * Years at Company vs Attrition
 * Gender-wise Attrition
 
+📷 Dashboard Preview
+
 
 ## 🛠 Tools & Technologies
 
